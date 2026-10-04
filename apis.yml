@@ -48,7 +48,7 @@ tags:
 - Co-Working
 - Travel
 - Booking
-- Real-Estate
+- Real Estate
 tags_raw:
 - Company
 - Marketplace
@@ -57,6 +57,7 @@ tags_raw:
 - Travel
 - Booking
 - Real Estate
+- Real-Estate
 apis: []
 maintainers:
 - FN: Kin Lane
